@@ -27,16 +27,20 @@ header {
 
 header img {
 	float: left;
+	margin-left: 20px;
 }
 
 header h2 {
 	font-size: 170%;
 	color: #800000;
+	margin-left: 120px;
+	margin-bottom: .25em;
 }
 
 header h3 {
 	font-size: 130%;
 	font-style: italic;
+	margin-left: 120px;
 }
 
 .shadow {
